@@ -2,6 +2,8 @@
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
         "*.m": "matlab",
-        "float.h": "c"
+        "float.h": "c",
+        "system_error": "c",
+        "xlocale": "c"
     }
 }
